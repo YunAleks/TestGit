@@ -23,5 +23,7 @@ public class BaseEntiti {
     public boolean isNew(){
         return (this.iD == null);
 
+
     }
 }
+
